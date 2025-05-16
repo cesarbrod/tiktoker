@@ -11,3 +11,7 @@ google-adk
 google-genai
 
 Em um ambiente Linux com o python3 e o python3-pip já instalados, basta usar o pip par instalar os requisitos acima.
+
+Rode com
+
+python3 tiktoker.py
